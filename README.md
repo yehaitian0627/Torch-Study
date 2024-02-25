@@ -6,3 +6,5 @@ pytorch学习代码
 3. 3_TensorboardTest:使用TensorBoard展示图片
 4. 4_TransformsTest:使用Transforms修改图片
 5. 5_Transforms&Dataset:下载并使用torchvision自带数据集
+6. 6_DataloaderTest:使用dataloader按批次取数据
+7. 
