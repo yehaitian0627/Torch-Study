@@ -10,3 +10,4 @@ pytorch学习代码
 7. 7_ModuleTest:使用Module.nn生成一个神经网络的初始结构并重写其中的方法
 8. 8_ConvolutionTest:简单的卷积模拟
 9. 9_nnConv2dTest:在图片数据集上进行卷积的例子
+10. 10_nnMaxPool2dTest:在图片数据集上进行池化的例子
