@@ -1,4 +1,5 @@
 import torch
+# torch.nn.functional和 torch.nn的区别在于：前者有底层实现，后者更注重使用（封装）
 import torch.nn.functional as F
 
 # 简单的卷积模拟
