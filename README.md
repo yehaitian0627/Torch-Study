@@ -11,3 +11,6 @@ pytorch学习代码
 8. 8_ConvolutionTest:简单的卷积模拟
 9. 9_nnConv2dTest:在图片数据集上进行卷积的例子
 10. 10_nnMaxPool2dTest:在图片数据集上进行池化的例子
+11. 11_nnSigmoidTest:激活函数
+12. 12_nnDropoutTest:Dropout测试
+13. 13_nnLinearTest:线性层
