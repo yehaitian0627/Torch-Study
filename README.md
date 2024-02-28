@@ -31,3 +31,4 @@ pytorch学习代码
       
     ![image](https://github.com/yehaitian0627/Torch-Study/assets/71301962/bedf4eb5-0535-487b-8633-2aa89d63c6fb)
 
+17. 17_modelVGGTest:使用和修改VGG16网络
