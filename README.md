@@ -36,3 +36,7 @@ pytorch学习代码
     18_LoadTest:两种加载现有网络的方式
     - 两种方式需要配套使用，方式一的存储只能用方式一的读取
     - 官方推荐第二种读取方法
+19. 19_WholeTest:整体测试（需要创建"net"文件夹以存储网络信息）
+    - 神经网络存储在myNet1中
+    测试结果用Tensorboard展示如下
+    ![image](https://github.com/yehaitian0627/Torch-Study/assets/71301962/a506e6b7-d7f3-4dd8-a99c-e42a8be62160)
