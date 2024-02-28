@@ -15,4 +15,5 @@ pytorch学习代码
 12. 12_nnDropoutTest:Dropout测试
 13. 13_nnLinearTest:线性层
 14. 14_nnSequentialTest:Sequential创建一个简单的网络
-![image](https://github.com/yehaitian0627/Torch-Study/assets/71301962/50673c7c-6224-4170-9b03-4a7d8026d797)
+![Uploading image.png…]()
+
