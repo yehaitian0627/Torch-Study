@@ -16,12 +16,18 @@ pytorch学习代码
 13. 13_nnLinearTest:线性层
 14. 14_nnSequentialTest:Sequential创建一个简单的网络
 ![image](https://github.com/yehaitian0627/Torch-Study/assets/71301962/2c6b4159-b941-457f-93d8-b53119e6668c)
-15.15_nnLossTest:使用交叉熵损失函数将计算训练结果并反向传播
+
+15. 15_nnLossTest:使用交叉熵损失函数将计算训练结果并反向传播
     - 如下图所示，在执行backward之前并没有进行反向传播，梯度为0：
+    
     ![1709103317987](https://github.com/yehaitian0627/Torch-Study/assets/71301962/6e28d6ea-aa2d-4ce1-a7b5-2e61222ce306)
+    
     - 如下图所示， 执行backward后梯度不为0，发生了反向传播：
+      
     ![1709103484842](https://github.com/yehaitian0627/Torch-Study/assets/71301962/4376a832-ab35-4020-aca7-9a8b81cbb4cb)
-16.16_OptimTest:优化器进行优化，利用反向传播的梯度对参数进行优化
+    
+16. 16_OptimTest:优化器进行优化，利用反向传播的梯度对参数进行优化
     - 如下图所示，经过20轮训练，通过优化器进行优化参数，损失函数明显降低：
+      
     ![image](https://github.com/yehaitian0627/Torch-Study/assets/71301962/bedf4eb5-0535-487b-8633-2aa89d63c6fb)
 
