@@ -32,3 +32,7 @@ pytorch学习代码
     ![image](https://github.com/yehaitian0627/Torch-Study/assets/71301962/bedf4eb5-0535-487b-8633-2aa89d63c6fb)
 
 17. 17_modelVGGTest:使用和修改VGG16网络
+18. 18_SaveTest:两种存储现有网络的方式
+    18_LoadTest:两种加载现有网络的方式
+    - 两种方式需要配套使用，方式一的存储只能用方式一的读取
+    - 官方推荐第二种读取方法
