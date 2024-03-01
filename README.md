@@ -44,7 +44,8 @@ pytorch学习代码
 20. 20_testByGPU:加入GPU后，训练速度明显提升
 21. 21_DemoTest:进行验证训练，使用网络上的图片进行测试，测试结果如下：
 
-    ![image](https://github.com/yehaitian0627/Torch-Study/assets/71301962/61af004f-c3bf-4a0e-8f53-cfa50f124778)![image](https://github.com/yehaitian0627/Torch-Study/assets/71301962/464f539a-36ab-4828-ae32-eacd731e538b)![image](https://github.com/yehaitian0627/Torch-Study/assets/71301962/8525c9d5-40a3-4447-b5ec-17164b378f9c)
+    ![image](https://github.com/yehaitian0627/Torch-Study/assets/71301962/61af004f-c3bf-4a0e-8f53-cfa50f124778)![image](https://github.com/yehaitian0627/Torch-Study/assets/71301962/eb4d2001-b996-4b98-a57b-adb7f33115d3)
+![image](https://github.com/yehaitian0627/Torch-Study/assets/71301962/8525c9d5-40a3-4447-b5ec-17164b378f9c)
 
 
 
